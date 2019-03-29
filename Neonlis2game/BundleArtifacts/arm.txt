@@ -1,0 +1,4 @@
+MainPackage=C:\Development\Projects\Game Dev\Games C#\Neonlis_2\Neonlis2game\Neonlis2game\bin\WindowsPhone8\ARM\Release\Neonlis2game_1.1.0.13_Bundle\Neonlis2game_1.1.0.13_ARM.appx
+SymbolPackage=C:\Development\Projects\Game Dev\Games C#\Neonlis_2\Neonlis2game\Neonlis2game\AppPackages\Neonlis2game_1.1.0.13_Test\Neonlis2game_1.1.0.13_ARM.appxsym
+ResourcePack=C:\Development\Projects\Game Dev\Games C#\Neonlis_2\Neonlis2game\Neonlis2game\bin\WindowsPhone8\ARM\Release\Neonlis2game_1.1.0.13_Bundle\Neonlis2game_1.1.0.13_scale-100.appx
+ResourcePack=C:\Development\Projects\Game Dev\Games C#\Neonlis_2\Neonlis2game\Neonlis2game\bin\WindowsPhone8\ARM\Release\Neonlis2game_1.1.0.13_Bundle\Neonlis2game_1.1.0.13_scale-140.appx

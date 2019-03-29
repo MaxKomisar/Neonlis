@@ -1,0 +1,18 @@
+﻿<SwapChainBackgroundPanel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Neonlis2game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    xmlns:smato="using:SOMAWP81"
+    xmlns:WindowsPhone81="using:Microsoft.AdMediator.WindowsPhone81"
+    x:Class="Neonlis2game.GamePage"
+    mc:Ignorable="d">
+
+    <Grid>
+
+        <WindowsPhone81:AdMediatorControl x:Name="AdMediator_249CF3" HorizontalAlignment="Left" Height="67" Id="AdMediator-Id-F9F6F062-B6F4-4127-8749-CDBDF56CA100" VerticalAlignment="Top" Width="400" Margin="143,0,-143,0"/>
+
+    </Grid>
+</SwapChainBackgroundPanel>
